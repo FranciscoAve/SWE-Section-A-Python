@@ -1,0 +1,16 @@
+Francisco se encarga de la sección Java. Crea el repo público con README,
+arma el pom.xml con Checkstyle y sube el código base para sacar el reporte inicial 
+(HTML y screenshots). Después refactoriza con la versión limpia, corre Checkstyle 
+otra vez hasta llegar a cero warnings y guarda el reporte final con sus capturas.
+ Al terminar, revisa el código Python de Gino como revisión cruzada.
+
+
+ Juan se ocupa del reto de GitHub Actions (5 pts) y del informe. 
+Crea los workflows checkstyle.yml y pylint.yml en ambos repos, 
+abre los PRs a main (uno que falle y otro que pase) y captura 
+la evidencia. Además redacta Introducción, Desarrollo, Conclusión
+ y Recomendaciones, juntando los screenshots y reportes de Francisco y Gino.
+ Verifica que ambos repos sean públicos, que los tres estén como 
+colaboradores y que las dos URLs estén en el informe,
+ porque sin eso hay -100. Por último sube el paquete final 
+(informe más los 4 reportes HTML) con al menos un día de margen.
